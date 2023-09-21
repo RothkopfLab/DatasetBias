@@ -1,0 +1,27 @@
+name: DecisionMaking
+dependencies:
+  - pip
+  - pip:
+    - hyperopt==0.2.3
+    - lime==0.2.0.1
+    - nbval
+    - nbdime
+    - python-dotenv>=0.5.1
+    - shap==0.37.0
+    - tensorflow==2.3.0
+    - echoAI==0.1.3
+    - keras==2.4.3
+  - setuptools
+  - wheel
+  - git>=2.5  # for git worktree template updating
+  - click
+  - jupyter
+  - scikit-learn
+  - joblib==0.15.1
+  - nb_conda_kernels<2.2.0  # nb_conda_kernels issue #158
+  - pandas
+  - requests
+  - pathlib
+  - python=3.7
+  - seaborn==0.11.0
+  - plotly==4.14.1
