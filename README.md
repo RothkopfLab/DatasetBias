@@ -1,7 +1,7 @@
 # Title
 This is the official repository, containing code and data for the paper (title) (currently under review).
 
-![Explanatory Figure](figure1.pdf)
+![Explanatory Figure](figure1.png)
 
 ## Data
 All three ([CPC15](https://economics.agri.huji.ac.il/crc2015/raw-data), [CPC18](https://cpc-18.com/data/) and [choices13k](https://github.com/jcpeterson/choices13k)) datasets used in this study were already publicly available before (click on the names, to see more).
