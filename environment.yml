@@ -3,7 +3,6 @@ dependencies:
   - pip
   - pip:
     - hyperopt==0.2.3
-    - lime==0.2.0.1
     - nbval
     - nbdime
     - python-dotenv>=0.5.1
@@ -20,8 +19,7 @@ dependencies:
   - joblib==0.15.1
   - nb_conda_kernels<2.2.0  # nb_conda_kernels issue #158
   - pandas
-  - requests
   - pathlib
   - python=3.7
   - seaborn==0.11.0
-  - plotly==4.14.1
+  - plotly==4.14.1 # needed for shap plots
