@@ -1,5 +1,5 @@
-# Title
-This is the official repository, containing code and data for the paper (title) (currently under review).
+# Modeling dataset bias in machine-learned theories of economic decision making
+This is the official repository, containing code and data for the paper "Modeling dataset bias in machine-learned theories of economic decision making" (currently under review).
 
 ![Explanatory Figure](figure1.png)
 
