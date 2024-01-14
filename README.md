@@ -1,7 +1,7 @@
 # Modeling dataset bias in machine-learned theories of economic decision making
-This is the official repository, containing code and data for the paper://
-Thomas, T., Straub, D., Tatai, F. et al. Modelling dataset bias in machine-learned theories of economic decision-making. 
-Nature Human Behaviour (2024).
+This is the official repository, containing code and data for the paper:\
+Thomas, T., Straub, D., Tatai, F. et al. Modelling dataset bias in machine-learned theories of economic decision-making.\
+Nature Human Behaviour (2024)\
 https://doi.org/10.1038/s41562-023-01784-6.
 
 ![Explanatory Figure](figure1.png)
