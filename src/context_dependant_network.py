@@ -3,8 +3,7 @@ import pandas as pd
 import pickle
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Input, Dense
-
-from src.features.CPC18_getDist import CPC18_getDist
+from CPC18_features import CPC18_getDist
 
 _lot_shape_dict = {
     0: "-",
